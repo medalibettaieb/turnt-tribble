@@ -228,7 +228,7 @@
                         <goal>deploy</goal>
                     </goals>    <!-- only remote server needs -->
                 <configuration>
-                   <hostname>192.168.92.43</hostname>
+                   <hostname>172.16.158.96</hostname>
                    <port>9999</port>
                     <username>man</username>
                     <password>azerty</password>
