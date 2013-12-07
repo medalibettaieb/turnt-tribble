@@ -1,0 +1,7 @@
+edu.krimogen.krimogen.controller
+edu.krimogen.krimogen.data
+edu.krimogen.krimogen.model
+edu.krimogen.krimogen.rest
+edu.krimogen.krimogen.service
+edu.krimogen.krimogen.test
+edu.krimogen.krimogen.util
