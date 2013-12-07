@@ -226,6 +226,7 @@
                     <phase>install</phase>
                     <goals>
                         <goal>deploy</goal>
+                        
                     </goals>    <!-- only remote server needs -->
                 <configuration>
                    <hostname>172.16.158.96</hostname>
